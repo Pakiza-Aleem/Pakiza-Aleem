@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=250&section=header&text=Pakiza%20Aleem&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=UI/UX%20Designer%20%7C%20MERN%20Stack%20Developer&descSize=18&descAlignY=58&animation=twinkling" width="100%"/>
 
 <p>
-  <a href="YOUR-LINKEDIN-URL">
+  <a href="https://www.linkedin.com/in/pakiza-aleem-6b509341a">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.behance.net/pyradesigns">
