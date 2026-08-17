@@ -111,7 +111,7 @@ I enjoy combining design and development to create clean, intuitive, and functio
 
 <td width="50%" valign="top">
 
-### [To-Do List](https://github.com/Pakiza-Aleem/To-Do-List)
+### [To-Do List](https://github.com/Pakiza-Aleem/To_Do_List)
 
 **Tech Stack**
 
@@ -125,7 +125,7 @@ I enjoy combining design and development to create clean, intuitive, and functio
 
 <td width="50%" valign="top">
 
-### [Typoslayer](https://github.com/Pakiza-Aleem/Typoslayer-SFML)
+### [Typoslayer](https://github.com/Pakiza-Aleem/TYPOSLAYER)
 
 **Tech Stack**
 
